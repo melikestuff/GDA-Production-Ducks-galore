@@ -1,2 +1,2 @@
 #Purpose: UI_Handler
-I handle calls to display UI
+Now uses a singleton approach, so anything can access this when UI is involved.
