@@ -1,2 +1,2 @@
 #Purpose: Enemy script
-I handle shooting the player when they are on screen
+Player shot when I am in range, and range goes beyond players screen
