@@ -1,2 +1,2 @@
 #Purpose: UI_Handler
-I handle calls to display UI
+Now accepting calls by making everything have a reference to UI_handler through inspector
