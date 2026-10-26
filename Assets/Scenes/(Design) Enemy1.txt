@@ -1,5 +1,5 @@
 ###Enemy stats!
-HP = 10
-Damage = 3
-speed = 7
+HP = 20
+Damage = 2
+speed = 5
 
