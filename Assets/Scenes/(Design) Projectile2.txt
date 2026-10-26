@@ -1,0 +1,3 @@
+#Projectile Stats
+Speed = 5
+Hitbox = Circle

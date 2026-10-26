@@ -1,0 +1,6 @@
+###Player stats!
+HP = 30
+Damage = 5
+speed = 5
+dash_Distance = 10
+charge_time = 2

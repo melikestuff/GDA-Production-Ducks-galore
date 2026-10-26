@@ -1,0 +1,4 @@
+#Purpose: Function
+input = nothing
+output = true or false
+When called, return either true or false.

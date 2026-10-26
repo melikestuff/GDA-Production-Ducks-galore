@@ -1,0 +1,3 @@
+#Projectile Stats
+Speed = 2
+Hitbox = square

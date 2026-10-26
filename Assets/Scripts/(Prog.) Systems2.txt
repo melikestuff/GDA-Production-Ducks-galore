@@ -1,0 +1,2 @@
+#Purpose: Singleton
+I store all the references to every important gameobject, script, literally everything
