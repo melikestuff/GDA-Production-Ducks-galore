@@ -1,4 +1,4 @@
 #Purpose: Function
-input = nothing
+input = (float)
 output = true or false
-When called, return either true or false.
+When called, return either true or false, the higher the given float, the higher the chance for a true value.
